@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.2",
+    "config": "^1.26.1",
+    "express": "^4.15.3",
+    "express-validator": "^3.2.0",
+    "mocha": "^3.4.2",
+    "mongoose": "^4.11.1",
+    "passport": "^0.3.2",
+    "passport-http": "^0.3.0",
+    "supertest": "^3.0.0"
+  }
+}
