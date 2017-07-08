@@ -1,6 +1,7 @@
 {
   "private": true,
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "bluebird": "^3.5.0",
     "body-parser": "^1.17.2",
     "config": "^1.26.1",
