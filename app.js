@@ -11,7 +11,7 @@ app.set('view engine', 'mustache')
 app.set('layout', 'layout')
 app.use('/static', express.static('static'))
 
-mongoose.connect('mongodb://localhost:27017/snips');
+mongoose.connect('mongodb://localhost:27017/snips')
 
 if (require.main === module) {
     app.listen(3000, function () {
